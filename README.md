@@ -37,6 +37,8 @@ This lab simulates a live enterprise corporate network environment designed to p
 
 ### 1. RDP Brute-Force Authentication Attack (`Crowbar`)
 * **Execution:** Executed a targeted RDP (`port 3389`) brute-force password sequence against the Windows 10 target (`192.168.10.100`) from Kali Linux (`192.168.10.250`) using `crowbar`.
+* <img width="1261" height="249" alt="Screenshot (1171)" src="https://github.com/user-attachments/assets/cf18b27b-975f-4822-a979-f408b4251e85" />
+
 * **Telemetry Captured:** Generated high-volume Windows Security logs detailing failed authentication events (`EventCode=4625`) followed by successful logon establishment (`EventCode=4624`).
 * **Splunk Detection Query:**
 
