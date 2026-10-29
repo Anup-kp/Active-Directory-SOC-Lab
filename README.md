@@ -1,7 +1,7 @@
 # Enterprise Active Directory & Splunk SOC Lab (`MyDFIR`)
 
 ## 🎥 Project Walkthrough & Links
-* **Video Walkthrough:** [(https://www.loom.com/share/339afa172a0140c5b97075efa592907e)]
+* **Video Walkthrough:** [[Watch 2-min Video Demonstration here](https://www.loom.com/share/339afa172a0140c5b97075efa592907e)]
 * **LinkedIn Post:** [Insert Your LinkedIn Project Post Link Here]
 
 ---
